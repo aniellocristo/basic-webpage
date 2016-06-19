@@ -1,1 +1,1 @@
-This reop is for my webpage files.
+This repo is for my webpage files.
