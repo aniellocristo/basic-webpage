@@ -1,1 +1,1 @@
-This repo is for my webpage files.
+This repo holds the first web page I pushed to GitHub.
